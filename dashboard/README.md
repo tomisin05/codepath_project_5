@@ -1,10 +1,10 @@
-# Web Development Project 6 - *Recipe Dashboard*
+# Web Development Project 5 - *Recipe Dashboard*
 
 Submitted by: **Oluwatomisin Badmus**
 
 This web app: **web app which makes api calls to the spontacular api to rectruece recipes, cooking time, calaries, etc to be displayed of a dashboard for easier access and visualization**
 
-Time spent: *2** hours spent in total
+Time spent: **2** hours spent in total
 
 
 ## Required Features
